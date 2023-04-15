@@ -1,5 +1,5 @@
 ################## 
-Installing Docker 
+# Installing Docker 
 ##################
 
 #Remove any old versions 
